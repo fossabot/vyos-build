@@ -2,6 +2,8 @@ VyOS toplevel build
 ===================
 
 # What is VyOS
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpost2seth%2Fvyos-build.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpost2seth%2Fvyos-build?ref=badge_shield)
+
 
 VyOS is an open source operating system for network devices (routers, firewalls
 and so on). If you want to use it in your network, check out download and
@@ -278,3 +280,7 @@ There are 88 of them, here's the [complete list](https://en.wikipedia.org/wiki/I
 * 1.2.0: `crux` (Southern Cross)
 * Future 1.3.0: `equuleus`
 * ...
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpost2seth%2Fvyos-build.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpost2seth%2Fvyos-build?ref=badge_large)
